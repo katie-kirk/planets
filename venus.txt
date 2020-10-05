@@ -1,0 +1,2 @@
+This is a new file that I've created for Activity #2.
+This is my edit to venus.txt for Activity #2.
